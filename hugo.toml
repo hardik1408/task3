@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'THE ECCENTRIC ENGINEER'
+
+theme= 'aether'
+[params]
+    facebook = 'https://www.facebook.com/'
+    github = 'https://github.com/hardik1408'
+    instagram = 'https://www.instagram.com/'
+    LinkedIn = 'https://www.linkedin.com/in/hardik-jindal-1a2176250/'

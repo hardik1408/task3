@@ -1,0 +1,7 @@
+
+---
+title: "WELCOME TO MY BLOG SITE. GO AHEAD AND GIVE IT A READ, YOU ARE GONNA FALL IN LOVE WITH ME"
+
+date: the date
+
+---
