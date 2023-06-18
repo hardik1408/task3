@@ -1,0 +1,8 @@
+[submodule "eccentricengineer.github.io"]
+	path = eccentricengineer.github.io
+	url = git@github.com:hardik1408/eccentricengineer.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:hardik1408/eccentricengineer.github.io.git
+	branch = master
