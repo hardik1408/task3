@@ -6,3 +6,7 @@
 	path = public
 	url = git@github.com:hardik1408/eccentricengineer.github.io.git
 	branch = master
+[submodule "aether"]
+	path = themes/aether
+	url = git@github.com:josephhutch/aether.git
+	branch = master
