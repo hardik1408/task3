@@ -1,5 +1,5 @@
 ---
-title: "life at iitk"
+title: "Life at IITK"
 date: 2023-06-18T03:00:19+05:30
 description: "first post"
 categories: []

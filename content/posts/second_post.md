@@ -1,7 +1,7 @@
 ---
-title: "second_post"
+title: "Exams again :("
 date: 2023-06-18T03:02:04+05:30
-description: "enjoying this thing now"
+description: "damn bro why"
 categories: []
 toc: false
 dropCap: true

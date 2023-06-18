@@ -1,7 +1,7 @@
 ---
-title: "3"
+title: "Finally pclub secy!!!!"
 date: 2023-06-18T03:02:04+05:30
-description: "enjoying this thing now"
+description: "target achieved"
 categories: []
 toc: false
 dropCap: true
@@ -16,4 +16,4 @@ resources:
       name: ""
       link: ""
 ---
-yes yes yes very correct indeed true
+yes yes yes very correct indeed truedv
