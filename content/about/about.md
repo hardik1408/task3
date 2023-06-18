@@ -1,6 +1,6 @@
 ---
 title: "ABOUT ME"
-
+disableComments: true
 displayInMenu: true
 displayInList: false
 layout : "about"

@@ -1,6 +1,6 @@
 ---
 title: "LIFE"
-
+disableComments: true
 displayInMenu: true
 displayInList: false
 layout : "about"
