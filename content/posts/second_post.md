@@ -17,3 +17,4 @@ resources:
       link: ""
 ---
 yes yes yes very correct indeed true
+![exam](/exam.gif)
