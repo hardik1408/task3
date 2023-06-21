@@ -6,3 +6,4 @@ I know I will not be awarded any points for this task, but still I am adding the
 https://hardik1408.github.io/task3/
 ```
 I even implemented a commenting system using `Disqus` in my static site.
+Again, apologies for the same.
