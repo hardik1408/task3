@@ -1,9 +1,9 @@
-# STATIC SITE GENERATOR - TASK 3
+# ECCENTRIC ENGINNER
 
-It was very late by the time I realized that we had to actually make a Static Site generator instead of a static site using hugo or any other SSG.
-I know I will not be awarded any points for this task, but still I am adding the link to the static site I built. I hope you take into consideration the time and efforts I gave for this.
+Yep, i am truly an eccentric engineer. i dont know why i chose engineering. i am enjoying writting this readme file more than studying for my exams.
+i created this personal static website to showcase myself to the world. go through it and emjoy.
 ```
 https://hardik1408.github.io/task3/
 ```
 I even implemented a commenting system using `Disqus` in my static site.
-Again, apologies for the same.
+Feel free to reach me out.
